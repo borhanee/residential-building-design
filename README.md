@@ -41,4 +41,4 @@ Title**: Construction of a Five-Story Residential Building Showing Detailed Desi
 - Rakib Hasan
 
 ## License
-This repository is published for educational and portfolio purposes.
+This repository is published for educational purposes.
